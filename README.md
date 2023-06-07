@@ -6,3 +6,4 @@ I always wondered how video games were made. I started reading and researching w
 
 I designed this game in Unity and wrote it in C#. The real problem came when I needed assets in the game. That's when I started to learn about Blender. I used Blender to create and animate all of the assets. That was also an interesting experience where I learned a lot, but programming ended up being what I enjoyed the most. Here are some images from the game:
 
+![alt text](https://github.com/jrm0527/TheCheezyMaze/blob/master/Screenshots/Screenshot_1.jpg?raw=true)
